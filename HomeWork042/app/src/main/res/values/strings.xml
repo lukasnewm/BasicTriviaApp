@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeWork04</string>
+    <string name="MainBtnExit">EXIT</string>
+    <string name="MainBtnStart">Start Trivia</string>
+    <string name="MainTextWelcome">Welcome To Trivia App</string>
+    <string name="QuestionNumberText">Q1</string>
+    <string name="TimerText">Time Left: X Seconds</string>
+    <string name="TheQuestionText">Trivia Question Text...</string>
+    <string name="TryAgainBtn">Try Again</string>
+    <string name="StatsBtnExit">Exit</string>
+    <string name="TriviaStatsText">Trivia Stats</string>
+    <string name="CorrectAnswersText">Correct Answers</string>
+    <string name="percentageText">\?%</string>
+    <string name="PromptTextPlayAgain">Hit Play Again</string>
+    <string name="btnTriviaExitText">Exit</string>
+    <string name="btnTriviaNextText">Next</string>
+</resources>
